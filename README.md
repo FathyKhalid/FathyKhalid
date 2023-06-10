@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Fathy</h1>
-<h3 align="center">Software Development Engineer!</h3>
+<h3 align="center">Software Development Engineer</h3>
 <p</p>
 <img align="right" alt="Coding" width="400" src="me.png"/>
 <h3 align="left">More About Me:</h3>
