@@ -13,7 +13,7 @@ Highly motivated student completing Communication and Computer Engineering degre
 <a href="https://linkedin.com/in/fathykhalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathykhalid" height="30" width="40" /></a>
 <a href="https://fb.com/fathykhalid0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fathykhalid0" height="30" width="40" /></a>
 <a href="https://instagram.com/_fathykhalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_fathykhalid" height="30" width="40" /></a>
-  <a href="mailto:your-email-address"> <img align="center" src="gmail.png" alt="fathykhalid" height="30" width="40" /></a>
+  <a href="mailto:your-email-address"> <img align="center" src="gmail.png" alt="fathykhalid" height="30" width="30" /></a>
   
 </p>
 <p align="left">
