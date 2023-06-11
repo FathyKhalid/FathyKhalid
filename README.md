@@ -2,7 +2,7 @@
   <img width = "2000" height = "200" src="cover.png">
 </p>
 
-<h1 align="center">Hi <img src="Hello.gif" width="28px" alt="👋">, I'm Fathy</h1>
+<h1 align="center">Hi <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋">, I'm Fathy</h1>
 <h3 align="center">Software Development Engineer</h3>
 <p</p>
 <img align="right" alt="Coding" width="400" src="me.png"/>
